@@ -1,9 +1,9 @@
 
-#### [Kshitij Chaudhary](https://github.com/kshitij1210)
+#### [KSHITIJ CHAUDHARY](https://github.com/kshitij1210)
 
-#### [Divyanshu Mishra](https://github.com/vividiviv)
+#### [DIVYANSHU MISHRA](https://github.com/vividiviv)
 
-#### [Sahithi Kilaru](https://github.com/sahithikilaru)
+#### [SAHITHI KILARU](https://github.com/sahithikilaru)
 
 #### CHINTAPALLI VENKATA RAESHMA
 
