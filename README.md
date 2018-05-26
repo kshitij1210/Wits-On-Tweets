@@ -1,4 +1,23 @@
 # Wits-On-Tweets
+
+## Requirements
+
+1.) Python 3.3 or above
+
+2.) Keras with Tensorflow backend
+
+3.) Keys for the Twitter Tweepy API (Tweepy should be installed first)
+
+4.) Numpy 
+
+5.) Pandas
+
+6.) NLTK completely installed
+
+7.) ggplot
+
+8.) Matplotlib
+
 ## Motivation
 
 In all our daily lives we take decisions which are highly motivated by people around us. Nowadays the decisions we take are not only dependent on the reviews of people closest to us, but also on the reviews from everyone around the globe. Websites like Twitter, Facebook help us to quickly gather a lot of information about any particular topic. Our project aims to help individuals gather live information about any topic on Twitter based on any keyword and predict the sense of the tweets to make better real-time decisions.
